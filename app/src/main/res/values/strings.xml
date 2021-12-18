@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unforgettable</string>
+    <string name="yes">I KNOW</string>
+    <string name="no">REVIEW</string>
+    <string name="add_word_hint">Enter your words here</string>
+    <string name="remaining">REMAINING: </string>
+    <string name="quick_review">REVIEW</string>
+    <string name="add_word">ADD</string>
+    <string name="delete_hint">Hold it for deleting word</string>
+    <string name="_00">00</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_text_size">25sp</dimen>
+    <dimen name="first_page_button_size">103dp</dimen>
+    <dimen name="app_name_size">40sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

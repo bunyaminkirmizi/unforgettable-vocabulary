@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unforgettable</string>
+    <string name="yes">GEÇ</string>
+    <string name="no">UNUTTUM</string>
+    <string name="add_word_hint">Kelimenizi buraya girin</string>
+    <string name="remaining">KALAN: </string>
+    <string name="quick_review">GÖZDEN GEÇİR</string>
+    <string name="add_word">EKLE</string>
+    <string name="delete_hint">Silmek için basılı tutun</string>
+    <string name="_00">00</string>
+</resources>
